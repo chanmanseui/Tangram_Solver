@@ -30,4 +30,3 @@ Cloud server configuration: 32 cores 128GB 5Mbps, system disk: high performance 
 
 ![Cloud Server](Image/envi.png)
 
-"# Tangram_Solver" 
