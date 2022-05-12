@@ -34,3 +34,6 @@ Network: Default-VPC.
 
 ![Cloud Server](Image/envi.png)
 
+The following table shows the results and running time of each method.
+
+![Cloud Server](Image/Result.png)
