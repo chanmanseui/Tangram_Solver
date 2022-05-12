@@ -1,6 +1,8 @@
 # Tangram_Solver
 
-This is the final project in CS360, Artificial Intelligence.
+#### This repo is the final project assignment for 2022 Spring class: CS360 Artificial Intelligence, Faculty of Innovation Engineering, Macau University of Science and Technology. A Tangram Puzzle Solver, Pentagons Formation using Tangram Pieces.
+
+#### For a detailed implementation of the algorithm and execution environment, see Final Report.pdf and Tangram Readme.pdf. 
 
 ## Question description
 
