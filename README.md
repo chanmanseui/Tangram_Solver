@@ -26,7 +26,11 @@ In this project, you are required to use AI search methods (uninformed search me
 
 In this project, we use uninformed search methods - the breadth-first search(BFS) method and the depth-first search(DFS) method, and informed search method - Greedy search method to get formations of the pentagon through tangram pieces. After running our program, we finally get xxx formations of the pentagon through tangram pieces as the result.
 
-Cloud server configuration: 32 cores 128GB 5Mbps, system disk: high performance cloud hard disk, network: Default-VPC.
+Cloud server configuration: 32 cores 128GB 5Mbps;
+
+System disk: high performance cloud hard disk;
+
+Network: Default-VPC.
 
 ![Cloud Server](Image/envi.png)
 
