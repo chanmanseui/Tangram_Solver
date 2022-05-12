@@ -1,6 +1,6 @@
 # Tangram_Solver
 
-
+This is the final project in CS360, Artificial Intelligence.
 
 ## Question description
 
