@@ -1,6 +1,6 @@
 # Tangram_Solver
 
-### Pentagons Formation using Tangram Pieces
+
 
 ## Question description
 
