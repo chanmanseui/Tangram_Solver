@@ -16,3 +16,4 @@ We could take the half-squared triangle as the basic form, because each square b
 There are many convex and non-convex figures/shapes of pentagons that you can build from all the 7 tangram pieces. Some of them are given below.
 
 In this project, you are required to use AI search methods (uninformed search methods such as Breadth First search, Depth First search, Iterative Deepening and Uniform Cost search) and (Informed or heuristic search methods such as Greedy search, A* algorithm and Iterative Deepening version of A* : IDA*) to perform pattern matching, recognition and pentagons formation.
+"# Tangram_Solver" 
