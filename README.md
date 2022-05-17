@@ -4,7 +4,7 @@
 
 #### For a detailed implementation of the algorithm and execution environment, see Final Report.pdf and Tangram Readme.pdf. 
 
-#### Copyright, Minrui Chen, Xudong Wang and Bingxi Peng.
+#### Copyright, Manseui Chan, Wang and Beta. All rights reserved.
 
 ## Question description
 
