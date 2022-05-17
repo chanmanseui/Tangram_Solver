@@ -4,6 +4,8 @@
 
 #### For a detailed implementation of the algorithm and execution environment, see Final Report.pdf and Tangram Readme.pdf. 
 
+#### Copyright, Minrui Chen, Xudong Wang and Bingxi Peng.
+
 ## Question description
 
 Tangram is one of the most popular games to play with. You put figures of 7 pieces together (five triangles, one square and one parallelogram). You must use all pieces. They must touch but not overlap.
