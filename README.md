@@ -52,5 +52,5 @@ The following table shows the results and running time of each method.
 	<img src="Image/Result.png" alt="Editor" width="400">
 </div>
 
-### If U want to know more about this project, TRY TO READ "Tangram Readme .pdf" is a Good Choice.
+### If U want to know more about this project, TRY TO READ "Final Report.pdf" and "Tangram Readme .pdf" is a Good Choice.
 
