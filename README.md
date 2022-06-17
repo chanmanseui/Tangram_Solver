@@ -12,7 +12,7 @@ Tangram is one of the most popular games to play with. You put figures of 7 piec
 
 All seven tangram pieces consist of many half squares(triangles), each with this shape: 
 
-![Basic Shape](Image/BasicShape.png)
+![Basic Shape](Image/BasicShape.png){:height="50%" width="50%"}
 
 There are 32 half squares or 16 squares altogether.
 
