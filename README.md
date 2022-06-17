@@ -49,6 +49,6 @@ Network: Default-VPC.
 The following table shows the results and running time of each method.
 
 <div align="center">
-	<img src="Image/Result.png" alt="Editor" width="300">
+	<img src="Image/Result.png" alt="Editor" width="400">
 </div>
 
