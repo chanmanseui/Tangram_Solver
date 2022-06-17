@@ -43,12 +43,12 @@ System disk: high performance cloud hard disk;
 Network: Default-VPC.
 
 <div align="center">
-	<img src="Image/envi.png" alt="Editor" width="500">
+	<img src="Image/envi.png" alt="Editor" width="300">
 </div>
 
 The following table shows the results and running time of each method.
 
 <div align="center">
-	<img src="Image/Result.png" alt="Editor" width="500">
+	<img src="Image/Result.png" alt="Editor" width="300">
 </div>
 
